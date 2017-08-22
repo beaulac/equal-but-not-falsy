@@ -1,6 +1,6 @@
 {
   "name": "equal-but-not-falsy",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Picomodule to determine if two things are equal, but not falsy.",
   "main": "index.js",
   "typings": "index.d.ts",
