@@ -5,5 +5,9 @@
   "main": "index.js",
   "typings": "index.d.ts",
   "author": "Antoine Beauvais-Lacasse <antoine.beaulac@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
 }
